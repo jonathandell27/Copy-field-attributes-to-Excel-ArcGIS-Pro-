@@ -1,6 +1,12 @@
 # Copy-field-attributes-to-Excel-ArcGIS-Pro-
 Arc GIS Python tool for simple conversion of field attributes(name, alias, type, etc.) to an Excel table. 
 
+Download the ZIP file containing the two files:
+1. Copying field names to Excel.atbx
+2. copying field names to excel.py
+
+The following steps must be performed in ArcGIS Pro! 
+
 Step 1: 
 Insert the toolbox - "Copying field names to Excel.atbx" 
 
