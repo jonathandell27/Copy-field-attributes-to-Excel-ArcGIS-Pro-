@@ -8,6 +8,8 @@ Insert the toolbox - "Copying field names to Excel.atbx"
 
 Step 2 -
 Open the "copying field names to excel" script
+
+
 ![image](https://github.com/jonathandell27/Copy-field-attributes-to-Excel-ArcGIS-Pro-/assets/59395234/c375e9c3-1c6e-4394-8c21-ef462aa5feaf)
 
 Step 3 -
